@@ -25,5 +25,4 @@ Crypto Currency Web App is a simple web application that provides real-time cryp
 Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/crypto-currency-web-app.git
-cd crypto-currency-web-app
+https://8080-cs-86913e24-6d82-4eb3-aa57-a4261bc234c8.cs-asia-southeast1-ajrg.cloudshell.dev/?authuser=1
